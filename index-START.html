@@ -37,6 +37,7 @@
       // We need to figure out how big the element we hovered is, also where it is on the page.
       // LinkCoords are the link's coordinates
       const linkCoords = this.getBoundingClientRect();
+      // Think of scrollY and scrollX as additional distances.
       const coords = {
         width: linkCoords.width,
         height: linkCoords.height,

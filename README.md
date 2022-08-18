@@ -1,1 +1,1 @@
-### In this project, we created links in which a span follows as we hover.
+### In this project, I created links in which a span follows as we hover.
